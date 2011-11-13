@@ -19,7 +19,11 @@ instructions
 
 1. Mix all except butter and marinate for 2 hr
 2. Brush with butter and grill or bake at 350F for 30 mins
-  if you're baking in the oven, put the chicken on a raised grate so that it doesn't sit in its juices.
+
+note:
+
+    if you're baking in the oven, put the chicken on a raised grate so that it doesn't sit in its juices.
+
 
 Serve with chutney and naan
 
