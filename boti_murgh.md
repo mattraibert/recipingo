@@ -1,6 +1,9 @@
 Boti Murgh
 ==========
 
+ingredients
+-----------
+
 * Chicken in 8 pcs 750 g
 * Yogurt 30 g
 * Red chile powder 3 g
@@ -11,9 +14,12 @@ Boti Murgh
 * Juice of a lemon 1 ea
 * Melted butter 50 g
 
+instructions
+------------
+
 1. Mix all except butter and marinate for 2 hr
 2. Brush with butter and grill or bake at 350F for 30 mins
-** if you're baking in the oven, put the chicken on a raised grate so that it doesn't sit in its juices.
+  if you're baking in the oven, put the chicken on a raised grate so that it doesn't sit in its juices.
 
 Serve with chutney and naan
 
