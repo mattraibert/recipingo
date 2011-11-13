@@ -1,3 +1,6 @@
+Savory Ricotta Cheesecake
+=========================
+
 2 bunches of spinach (trim)
 2 cloves garlic (mince)
 2 shallots (mince)
