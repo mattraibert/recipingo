@@ -22,7 +22,7 @@ instructions
 
 note:
 
-    if you're baking in the oven, put the chicken on a raised grate so that it doesn't sit in its juices.
+    for best texture, put the chicken on a raised grate so that it doesn't sit in its juices.
 
 
 Serve with chutney and naan
