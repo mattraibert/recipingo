@@ -27,9 +27,12 @@ post '/edit/recipe/' do
   File.open("recipes/#{params[:name]}.md",'w') do |f|
     f.print params[:edit]
   end
-  redirect "edit/recipe/#{params[:name]}"
+  redirect "recipe/#{params[:name]}"
 end
 
 post '/edit/menu/' do
-  redirect "edit/menu/#{params[:name]}"
+  File.open("menus/#{params[:name]}.md",'w') do |f|
+    f.puts params[:edit]
+  end
+  redirect "menu/#{params[:name]}"
 end
