@@ -23,4 +23,5 @@ Add ginger, lemon and sugar, cook for 3 min, add chiles
 Fry cumin seeds and add to dal  
 
 References:
+-----------
 [Food Path](http://www.amazon.com/Food-Path-Cuisine-Along-Kolkata/dp/8174363629) by Pushpesh Pant and Huma Mohsin
