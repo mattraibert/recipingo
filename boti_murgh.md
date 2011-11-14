@@ -22,10 +22,11 @@ instructions
 
 note:
 
-    for best texture, put the chicken on a raised grate so that it doesn't sit in its juices.
+    for best texture, put the chicken on a raised grate so that it doesn't cook in its juices.
 
 
 Serve with chutney and naan
 
 References:
+-----------
 [Food Path](http://www.amazon.com/Food-Path-Cuisine-Along-Kolkata/dp/8174363629) by Pushpesh Pant and Huma Mohsin
