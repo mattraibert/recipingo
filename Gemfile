@@ -2,4 +2,5 @@ source :rubygems
 
 gem 'sinatra'
 gem 'redcarpet'
-gem 'shotgun'
+gem 'haml'
+Ggem 'shotgun'

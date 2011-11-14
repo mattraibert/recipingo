@@ -11,10 +11,7 @@ def files_in folder
 end
 
 get '/' do
-  markdown "Recipes\n-------\n\n" +
-    files_in("recipes").map {|recipe| "* [#{recipe}](recipe/#{recipe})" }.join("\n") +
-    "\n\nMenus\n-----\n\n" +
-    files_in("menus").map {|menu| "* [#{menu}](menu/#{menu})" }.join("\n")
+  haml :index
 end
 
 get '/recipe/:template' do
@@ -24,4 +21,3 @@ end
 get '/menu/:template' do
   markdown params[:template].to_sym, { :views => 'menus' }
 end
-

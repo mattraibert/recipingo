@@ -1,0 +1,12 @@
+%h2 Recipes
+%ul
+  - files_in("recipes").each do |recipe|
+    %li
+      %a{ :href => "recipe/#{recipe}" }
+        = recipe
+%h2 Menus
+%ul
+  - files_in("menus").each do |menu|
+    %li
+      %a{ :href => "menu/#{menu}" }
+        = menu
