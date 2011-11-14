@@ -1,7 +1,7 @@
 Boti Murgh
 ==========
 
-ingredients
+Ingredients
 -----------
 
 * Chicken in 8 pcs 750 g
@@ -14,7 +14,7 @@ ingredients
 * Juice of a lemon 1 ea
 * Melted butter 50 g
 
-instructions
+Instructions
 ------------
 
 1. Mix all except butter and marinate for 2 hr
