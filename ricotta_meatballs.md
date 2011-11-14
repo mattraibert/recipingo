@@ -23,14 +23,11 @@ References:
 
 Based on these tweets:
 
-    “@the_P44: @Mariobatali hi chef, can I have your recipe for Italian meatballs 2 Chuck 2 pork 1 ricotta 1 breadcrumbs + 1 egg 1
-    cup parm/lb http://twitter.com/#!/Mariobatali/status/130704746028859392
+* [“@the_P44: @Mariobatali hi chef, can I have your recipe for Italian meatballs 2 Chuck 2 pork 1 ricotta 1 breadcrumbs + 1 egg 1 cup parm/lb](http://twitter.com/#!/Mariobatali/status/130704746028859392)
 
-    “@ttd_863: im making meatballs today... stovetop fried or oven baked- what do you do?” Oven for me. Sometimes I poach from raw
-    in tomsauce http://twitter.com/#!/Mariobatali/status/130711738998992897
+* [“@ttd_863: im making meatballs today... stovetop fried or oven baked- what do you do?” Oven for me. Sometimes I poach from raw in tomsauce](http://twitter.com/#!/Mariobatali/status/130711738998992897)
 
-    “@hhudgins1986: @Mariobatali that's it? What about seasoning?” I like marjoram. Plus salt
-    http://twitter.com/#!/Mariobatali/status/130721965605531648
+* [“@hhudgins1986: @Mariobatali that's it? What about seasoning?” I like marjoram. Plus salt](http://twitter.com/#!/Mariobatali/status/130721965605531648)
 
-    “@roslynstreet: chef I have some sauce on the stove want to try poaching the meatballs. About how long? Boil or simmer?”
-    Simmer 15 mins/in http://twitter.com/#!/Mariobatali/status/130728275638099968
+* [“@roslynstreet: chef I have some sauce on the stove want to try poaching the meatballs. About how long? Boil or simmer?”
+    Simmer 15 mins/in](http://twitter.com/#!/Mariobatali/status/130728275638099968)
