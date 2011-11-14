@@ -1,14 +1,5 @@
 require 'sinatra'
-
-def strip_suffix filename
-  filename.sub(/\.\w*\Z/,'')
-end
-
-def files_in folder
-  files = Dir.chdir(folder) do
-    Dir.glob("*").map {|filename| strip_suffix filename }
-  end
-end
+require './lookups'
 
 get '/' do
   haml :index
@@ -20,4 +11,25 @@ end
 
 get '/menu/:template' do
   markdown params[:template].to_sym, { :views => 'menus' }
+end
+
+get '/edit/recipe/:name' do |name|
+  edit = IO.read "recipes/#{name}.md"
+  haml :edit, :locals => { :name => name, :edit => edit }
+end
+
+get '/edit/menu/:name' do |name|
+  edit = IO.read "menus/#{name}.md"
+  haml :edit, :locals => { :name => name, :edit => edit }
+end
+
+post '/edit/recipe/' do
+  File.open("recipes/#{params[:name]}.md",'w') do |f|
+    f.print params[:edit]
+  end
+  redirect "edit/recipe/#{params[:name]}"
+end
+
+post '/edit/menu/' do
+  redirect "edit/menu/#{params[:name]}"
 end
