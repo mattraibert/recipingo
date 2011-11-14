@@ -5,34 +5,20 @@ get '/' do
   haml :index
 end
 
-get '/recipe/:template' do
-  markdown params[:template].to_sym, { :views => 'recipes' }
-end
-
-get '/menu/:template' do
-  markdown params[:template].to_sym, { :views => 'menus' }
-end
-
-get '/edit/recipe/:name' do |name|
-  edit = IO.read "recipes/#{name}.md"
-  haml :edit, :locals => { :name => name, :edit => edit }
-end
-
-get '/edit/menu/:name' do |name|
-  edit = IO.read "menus/#{name}.md"
-  haml :edit, :locals => { :name => name, :edit => edit }
-end
-
-post '/edit/recipe/' do
-  File.open("recipes/#{params[:name]}.md",'w') do |f|
-    f.print params[:edit]
+[:recipe, :menu].each do |resource|
+  get "/#{resource}/:template" do
+    markdown params[:template].to_sym, { :views => "#{resource}s" }
   end
-  redirect "recipe/#{params[:name]}"
-end
-
-post '/edit/menu/' do
-  File.open("menus/#{params[:name]}.md",'w') do |f|
-    f.puts params[:edit]
+  
+  get "/edit/#{resource}/:name" do |name|
+    edit = IO.read "#{resource}s/#{name}.md"
+    haml :edit, :locals => { :name => name, :edit => edit }
   end
-  redirect "menu/#{params[:name]}"
+
+  post "/edit/#{resource}/" do
+    File.open("#{resource}s/#{params[:name]}.md",'w') do |f|
+      f.puts params[:edit]
+    end
+    redirect "#{resource}/#{params[:name]}"
+  end
 end
