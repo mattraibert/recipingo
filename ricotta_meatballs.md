@@ -1,21 +1,24 @@
 Ricotta Meatballs
 =================
 
-1 lb ground chuck
-1 lb ground pork
-.5 lb ricotta
-3 eggs
-2 cups parmesean cheese
-Taragon
-lemon zest
-.5 lb breadcrumbs
+Ingredients
+-----------
 
-Instructions:
+* 1 lb ground chuck
+* 1 lb ground pork
+* .5 lb ricotta
+* 3 eggs
+* 2 cups parmesean cheese
+* taragon
+* lemon zest
+* .5 lb breadcrumbs
+
+Instructions
 -------------
 
-Mix all
-fry in oo 3 at a time for around 2 minutes constantly turning
-poach in basic tomato sauce for 10 more mins
+1. Mix all, form into 1-2 inch diameter balls.
+2. Fry 3 at a time in oo over medium high heat; constantly turning for around 2 minutes.
+3. Poach in basic tomato sauce for 10 more mins
 
 
 References:
