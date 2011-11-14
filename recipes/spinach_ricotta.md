@@ -1,14 +1,20 @@
 Savory Ricotta Cheesecake
 =========================
 
-2 bunches of spinach (trim)
-2 cloves garlic (mince)
-2 shallots (mince)
-butter + oo
-1 zucchini (1/2" dice)
-parmesean cheese (grated)
-750g ricotta (fairly dry)
-5 eggs
+Ingredients
+-----------
+
+* 2 bunches of spinach (trim)
+* 2 cloves garlic (mince)
+* 2 shallots (mince)
+* butter + oo
+* 1 zucchini (1/2" dice)
+* parmesean cheese (grated)
+* 750g ricotta (fairly dry)
+* 5 eggs
+
+Instructions
+------------
 
 2 times do 
   heat oil/butter
