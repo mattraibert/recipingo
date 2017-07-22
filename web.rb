@@ -1,5 +1,6 @@
 require 'sinatra'
 require './lookups'
+require 'rdiscount'
 
 get '/' do
   haml :index
